@@ -1,3 +1,3 @@
 # intro-aluro
 
-esse foi o projeto onde aprendi pontos basicos de html e css
+esse foi o projeto onde aprendi pontos basicos de html e css ensinado lecionado pela alura.
