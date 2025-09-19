@@ -1,2 +1,3 @@
-# intro-alura
-projeto simples com base em html e css 
+# intro-aluro
+
+esse foi o projeto onde aprendi pontos basicos de html e css
